@@ -1,4 +1,4 @@
-# InstaBot
+# Foodie Junction
 Automated Instagram Bot using web scraping of Selenium.
 Instead of SAMPLE USERNAME & SAMPLE PASSWORD, just fill in your credentials to explore some interesting facts about FOOD.
 Also this program uses Jupyter Notebook with a webdriver.
